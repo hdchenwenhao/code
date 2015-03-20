@@ -24,4 +24,4 @@ module pc_reg(
         end
     end
 
-endmodul
+endmodule
